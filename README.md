@@ -11,3 +11,7 @@ https://github.com/dronebird/oam_yokoze20170127terasakatanada/tree/master/emotio
 https://github.com/dronebird/oam_yokoze20170127terasakatanada/tree/master/emotion/img
 
 ## タイル画像（現在作成中）
+
+
+## 撮影準備映像
+https://youtu.be/2t2SDUcTe1g
