@@ -17,4 +17,4 @@ https://github.com/dronebird/oam_yokoze20170127terasakatanada/tree/master/emotio
 https://youtu.be/2t2SDUcTe1g
 
 ## 著作権
-[© CrisisMappers Japan/DRONEBIRD, CC BY 4.0](https://github.com/dronebird/oam_yamatocity2016firstflight/blob/master/LICENSE.md)
+[© CrisisMappers Japan/DRONEBIRD, CC BY 4.0](https://github.com/dronebird/oam_yokoze20170127terasakatanada/blob/master/LICENSE.md)
